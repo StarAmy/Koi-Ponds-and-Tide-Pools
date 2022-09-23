@@ -1,0 +1,266 @@
+  [
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small Grey Rock Koi Pond"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small Grey Rock Koi Pond with Plants"
+        }
+    },
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small Tan Rock Koi Pond"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small Tan Rock Koi Pond with Plants"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small Red Rock Tide Pool"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small Red Rock Tide Pool with Coral"
+        }
+    },
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small White Rock Tide Pool"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 1000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Small White Rock Tide Pool with Plants"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium Grey Rock Koi Pond"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium Grey Rock Koi Pond with Plants"
+        }
+    },
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium Tan Rock Koi Pond"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium Tan Rock Koi Pond with Plants"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium Red Rock Tide Pool"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium Red Rock Tide Pool with Coral"
+        }
+    },
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium White Rock Tide Pool"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 3000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Medium White Rock Tide Pool with Plants"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large Grey Rock Koi Pond"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large Grey Rock Koi Pond with Plants"
+        }
+    },
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large Tan Rock Koi Pond"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large Tan Rock Koi Pond with Plants"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large Red Rock Tide Pool"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large Red Rock Tide Pool with Coral"
+        }
+    },
+   {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large White Rock Tide Pool"
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "ShopId": "FishShop",
+        "MaxSold": 10,
+        "Cost": 5000,
+        "Item":  
+        {
+            "Type": "DGAItem",
+            "Value": "staramy.koiponds/Large White Rock Tide Pool with Plants"
+        }
+    },
+]

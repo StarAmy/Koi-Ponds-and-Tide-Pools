@@ -1,0 +1,130 @@
+    [
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large Grey Rock Koi Pond",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/grey_basic_Large.png:0@10, Assets/grey_basic_Large.png:2@10, Assets/grey_basic_Large.png:3@10",
+		          "FrontTexture": "Assets/grey_basic_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large Grey Rock Koi Pond with Plants",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/grey_plants_Large.png:0@10, Assets/grey_plants_Large.png:2@10, Assets/grey_plants_Large.png:3@10",
+                  "FrontTexture": "Assets/grey_plants_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large Tan Rock Koi Pond",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/tan_basic_Large.png:0@10, Assets/tan_basic_Large.png:2@10, Assets/tan_basic_Large.png:3@10",
+                  "FrontTexture": "Assets/tan_basic_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large Tan Rock Koi Pond with Plants",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/tan_plants_Large.png:0@10, Assets/tan_plants_Large.png:2@10, Assets/tan_plants_Large.png:3@10",
+                  "FrontTexture": "Assets/tan_plants_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large Red Rock Tide Pool",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/red_basic_Large.png:0",
+                  "FrontTexture": "Assets/red_basic_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large Red Rock Tide Pool with Coral",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/red_coral_Large.png:0",
+                  "FrontTexture": "Assets/red_coral_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large White Rock Tide Pool",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/white_basic_Large.png:0",
+                  "FrontTexture": "Assets/white_basic_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Large White Rock Tide Pool with Plants",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/white_plants_Large.png:0",
+                  "FrontTexture": "Assets/white_plants_Large.png:1",
+                "DisplaySize": { "X": 5, "Y": 4 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+]

@@ -1,0 +1,18 @@
+[
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/small_ponds.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/medium_ponds.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/large_ponds.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/shop_entries.json"
+   },
+]
