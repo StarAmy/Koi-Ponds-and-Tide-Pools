@@ -11,7 +11,7 @@
                 "Texture": "Assets/grey_basic_small.png:0@10, Assets/grey_basic_small.png:2@10, Assets/grey_basic_small.png:3@10",
 		          "FrontTexture": "Assets/grey_basic_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -27,7 +27,7 @@
                 "Texture": "Assets/grey_plants_small.png:0@10, Assets/grey_plants_small.png:2@10, Assets/grey_plants_small.png:3@10",
                   "FrontTexture": "Assets/grey_plants_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -43,7 +43,7 @@
                 "Texture": "Assets/tan_basic_small.png:0@10, Assets/tan_basic_small.png:2@10, Assets/tan_basic_small.png:3@10",
                   "FrontTexture": "Assets/tan_basic_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -59,7 +59,7 @@
                 "Texture": "Assets/tan_plants_small.png:0@10, Assets/tan_plants_small.png:2@10, Assets/tan_plants_small.png:3@10",
                   "FrontTexture": "Assets/tan_plants_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -75,7 +75,7 @@
                 "Texture": "Assets/red_basic_small.png:0",
                   "FrontTexture": "Assets/red_basic_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -91,7 +91,7 @@
                 "Texture": "Assets/red_coral_small.png:0",
                   "FrontTexture": "Assets/red_coral_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -107,7 +107,7 @@
                 "Texture": "Assets/white_basic_small.png:0",
                   "FrontTexture": "Assets/white_basic_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
@@ -123,7 +123,7 @@
                 "Texture": "Assets/white_plants_small.png:0",
                   "FrontTexture": "Assets/white_plants_small.png:1",
                 "DisplaySize": { "X": 3, "Y": 2 },
-                "CollisionHeight": 1,
+                "CollisionHeight": 2,
             }
         ]
     },
